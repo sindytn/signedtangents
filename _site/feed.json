@@ -1,0 +1,37 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Sidey",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
+    "description": "Simple and minimalistic jekyll blogging theme.",
+    "icon": "http://localhost:4000/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/favicon.ico",
+    "expired": false,
+    
+    "author": "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}",
+    
+"items": [
+    
+        {
+            "id": "http://localhost:4000/2024/08/07/starting-project-euler",
+            "title": "Starting Project Euler",
+            "summary": null,
+            "content_text": "Recently I’ve started to suspect that my brain is atrophying. Whether reasoning about something deeply technical or attempting a quick computation, moving with the same focus or nimbleness that I had, say five or ten years ago, feels harder. It’s time to hit the gym.Project Euler is one of many options for a brain workout. I chose it because the problems are fun to solve and the process is different enough from my normal work that it feels like a break. And I miss doing math.I’ll be sharing solutions here. To start, here it is for problem 1:SolutionWe compute the sums of multiples of 3 and 5, then subtract the double-counted numbers, which are the multiples of 15. Each term is an arithmetic series which can be evaluated by $$\\sum_{k=1}^{n}k = \\frac{1}{2}n(n+1)$$ This gives us$$3 \\sum_{k=1}^{333} k + 5 \\sum_{k=1}^{199} - 15 \\sum_{k=1}^{66}k = 233168$$",
+            "content_html": "<p>Recently I’ve started to suspect that my brain is atrophying. Whether reasoning about something deeply technical or attempting a quick computation, moving with the same focus or nimbleness that I had, say five or ten years ago, feels harder. It’s time to hit the gym.</p><p>Project Euler is one of many options for a brain workout. I chose it because the problems are fun to solve and the process is different enough from my normal work that it feels like a break. And I miss doing math.</p><p>I’ll be sharing solutions here. To start, here it is for <a href=\"https://projecteuler.net/problem=1\">problem 1</a>:</p><details><summary>Solution</summary>We compute the sums of multiples of 3 and 5, then subtract the double-counted numbers, which are the multiples of 15. Each term is an arithmetic series which can be evaluated by $$\\sum_{k=1}^{n}k = \\frac{1}{2}n(n+1)$$ This gives us$$3 \\sum_{k=1}^{333} k + 5 \\sum_{k=1}^{199} - 15 \\sum_{k=1}^{66}k = 233168$$</details>",
+            "url": "http://localhost:4000/2024/08/07/starting-project-euler",
+            
+            
+            
+            
+            
+            "date_published": "2024-08-07T00:00:00-07:00",
+            "date_modified": "2024-08-07T00:00:00-07:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        }
+    
+    ]
+}
