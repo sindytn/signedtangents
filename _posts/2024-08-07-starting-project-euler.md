@@ -9,7 +9,7 @@ Recently I've started to suspect that my brain is atrophying. Whether reasoning 
 
 Project Euler is one of many options for a brain workout. I chose it because the problems are fun to solve and the process is different enough from my normal work that it feels like a break. And I miss doing math.
 
-I'll be sharing solutions here. To start, here it is for [problem 1](https://projecteuler.net/problem=1):
+I'll be sharing solutions here ([Github](https://github.com/sindytn/project-euler)). In the spirit of Project Euler, there will be no shared solutions past the first hundred. I hope that this will be a useful reference for others who want to get started. To start, since [problem 1](https://projecteuler.net/problem=1) can be done with paper and pencil, here's my solution:
 
 
 <details>
