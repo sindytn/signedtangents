@@ -12,5 +12,26 @@
     
 "items": [
     
+        {
+            "id": "http://localhost:4000/2025/06/26/bike-california-day-0",
+            "title": "Biking from Bay to LA (Day 0)",
+            "summary": null,
+            "content_text": "Pack light. Lighter. Lighter. Ok go.",
+            "content_html": "<p>Pack light. Lighter. Lighter. Ok go.</p>",
+            "url": "http://localhost:4000/2025/06/26/bike-california-day-0",
+            
+            
+            
+            "tags": ["#bike","#travel"],
+            
+            "date_published": "2025-06-26T00:00:00-07:00",
+            "date_modified": "2025-06-26T00:00:00-07:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        }
+    
     ]
 }
